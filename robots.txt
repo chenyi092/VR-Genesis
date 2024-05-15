@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chenyi092.github.io/VR-Genesis/sitemap.xml
