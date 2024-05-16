@@ -5,26 +5,47 @@
     "home_page_url": "https://chenyi092.github.io/VR-Genesis",
     "feed_url": "https://chenyi092.github.io/VR-Genesis/feed.json",
     "user_comment": "",
+    "icon": "https://chenyi092.github.io/VR-Genesis/media/website/Wei-Ming-Ming-She-Ji.png",
     "author": {
         "name": "CHIN"
     },
     "items": [
         {
+            "id": "https://chenyi092.github.io/VR-Genesis/zhan-hui-shi-cheng-biao.html",
+            "url": "https://chenyi092.github.io/VR-Genesis/zhan-hui-shi-cheng-biao.html",
+            "title": "展會時程表",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/24/Jie-Tu-2024-05-15-Shang-Wu-12.41.07.png\" alt=\"\" width=\"2160\" height=\"1662\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/24/responsive/Jie-Tu-2024-05-15-Shang-Wu-12.41.07-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/24/responsive/Jie-Tu-2024-05-15-Shang-Wu-12.41.07-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/24/responsive/Jie-Tu-2024-05-15-Shang-Wu-12.41.07-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/24/responsive/Jie-Tu-2024-05-15-Shang-Wu-12.41.07-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/24/responsive/Jie-Tu-2024-05-15-Shang-Wu-12.41.07-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/24/responsive/Jie-Tu-2024-05-15-Shang-Wu-12.41.07-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "CHIN"
+            },
+            "tags": [
+                   "關於VR Genesis"
+            ],
+            "date_published": "2024-05-16T01:11:09+08:00",
+            "date_modified": "2024-05-16T01:12:02+08:00"
+        },
+        {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-10-3.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-10-3.html",
             "title": "購票方案",
+            "summary": "單人票 single : 300元 情侶套票：520元—加贈情侶手環 家庭套票（3人以上）：270元/人—加贈一盒曲奇餅乾",
+            "content_html": "<h3>單人票 single : 300元<!-- notionvc: ef666313-c001-403a-a31f-fc104a383c59 --></h3>\n<h3><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/1-1-2.png\" alt=\"\" width=\"500\" height=\"354\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/1-1-2-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/1-1-2-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/1-1-2-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/1-1-2-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/1-1-2-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/1-1-2-2xl.png 1600w\"></figure></h3>\n<h3>情侶套票：520元—加贈情侶手環<!-- notionvc: 8ec186ed-4d2a-4583-8a03-81db9e6e9632 --></h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/2.png\" alt=\"\" width=\"500\" height=\"354\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/2-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/2-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/2-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/2-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/2-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/2-2xl.png 1600w\"></figure>\n<h3>家庭套票（3人以上）：270元/人—加贈一盒曲奇餅乾<!-- notionvc: 74ad9716-1619-4a00-b0e9-35d300ff611f --></h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/file-1.png\" alt=\"\" width=\"800\" height=\"450\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-1-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-1-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-1-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-1-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-1-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-1-2xl.png 1600w\"></figure>\n<p> </p>\n<h3>友情套票（4人）：1120元—加贈一瓶紅酒(300ml)<!-- notionvc: 2cab7f61-fbfa-42d0-afab-9475fdc7964a --></h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/file.png\" alt=\"\" width=\"800\" height=\"450\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/23/responsive/file-2xl.png 1600w\"></figure>\n<p> </p>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/23/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
             "tags": [
             ],
             "date_published": "2024-05-15T20:56:26+08:00",
-            "date_modified": "2024-05-15T20:58:30+08:00"
+            "date_modified": "2024-05-16T21:18:48+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-10-2.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-10-2.html",
             "title": "友情類",
+            "summary": "《鼠麻吉》Buddy 由曾獲金馬獎最佳視覺效果、香港金像獎最佳視覺效果提名的南韓導演蔡洙應執導，本作為好萊塢破億動畫《堅果行動》外傳 。電影以生動的敘事與互動手法呈現，戴上VR裝置的你將進入小人國，和寂寞的小老鼠Buddy做朋友！透過互動裝置，你可以寫下自己的名字，並透過點頭、搖頭，比手畫腳地向牠自我介紹。糖果屋大冒險即將展開，究竟能不能跟Buddy攜手突破各種挑戰呢？ 小編推推： 作品中的小老鼠超級可愛的啦！整體畫風就像皮克斯動畫，童趣鮮豔的畫面讓你沉浸在縮小的世界，與小老鼠建立起深厚珍貴的友誼，一同展開驚險刺激的冒險～ 溫暖真摯的丹尼爾，在學校是個孤獨男孩。在他栩栩如生的奇幻想像裡，你將成為他傾訴作伴的好搭檔，在青春的現實中作伙鬥陣，一起遊戲闖關。面對家長的關懷，同學的異樣眼光與忽視，寂寞和恐懼漸漸靠攏包圍，四方而來的怪獸也開始變身幻化；幸好，你們想起了這是個可以行動的世界啊！無論身在書房、教室或高樓，還是能勇敢出聲、揮舞飛翔...… 小編推推： 你也曾經在兒時有個幻想小夥伴嗎？這次你將幻化成男主角丹尼爾的小夥伴，以遊戲的方式一同與他面對恐懼，可愛又具有想像力的世界，實踐「想像力就是你的超能力」。 熱愛研究火車的小學生Takashi天生視力不佳，有一天終於全盲，他也必須學習面對隨之而來的改變，唯一不變的是，同為火車迷的自閉症同學Shinji，始終待他親切。有天，Shinji邀請Takashi一起去迎接蒸汽火車進站。面對家門外的未知世界，Takashi該如何克服心魔，重拾他對生命的熱情呢？ 小編推推： 作品的畫面就像孩子手繪般，色彩鮮豔且大膽，兩位孩子突破重重障礙、不放棄對火車的熱愛非常可愛，在看完影片後會被兩位小男孩真摯的互動與感情所感動。",
+            "content_html": "<h5>《鼠麻吉》Buddy<!-- notionvc: bfee513a-ca8e-4860-aaf0-2ac051980880 --></h5>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/f7HOCmo2948?si=tZvih9apH67VtnwO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div> </p>\n<p>由曾獲金馬獎最佳視覺效果、香港金像獎最佳視覺效果提名的南韓導演蔡洙應執導，本作為好萊塢破億動畫《堅果行動》外傳 。電影以生動的敘事與互動手法呈現，戴上VR裝置的你將進入小人國，和寂寞的小老鼠Buddy做朋友！透過互動裝置，你可以寫下自己的名字，並透過點頭、搖頭，比手畫腳地向牠自我介紹。糖果屋大冒險即將展開，究竟能不能跟Buddy攜手突破各種挑戰呢？</p>\n<p>小編推推：<br>作品中的小老鼠超級可愛的啦！整體畫風就像皮克斯動畫，童趣鮮豔的畫面讓你沉浸在縮小的世界，與小老鼠建立起深厚珍貴的友誼，一同展開驚險刺激的冒險～</p>\n<h5>《超級鳥朋友》<!-- notionvc: 7a5d1af3-80a1-4f95-b300-06cd0de42792 -->The Imaginary Friend</h5>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0MafUAQVLRU?si=d9mjJpNZauTiFz6V\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div> </p>\n<p>溫暖真摯的丹尼爾，在學校是個孤獨男孩。在他栩栩如生的奇幻想像裡，你將成為他傾訴作伴的好搭檔，在青春的現實中作伙鬥陣，一起遊戲闖關。面對家長的關懷，同學的異樣眼光與忽視，寂寞和恐懼漸漸靠攏包圍，四方而來的怪獸也開始變身幻化；幸好，你們想起了這是個可以行動的世界啊！無論身在書房、教室或高樓，還是能勇敢出聲、揮舞飛翔...…</p>\n<p>小編推推：<br>你也曾經在兒時有個幻想小夥伴嗎？這次你將幻化成男主角丹尼爾的小夥伴，以遊戲的方式一同與他面對恐懼，可愛又具有想像力的世界，實踐「想像力就是你的超能力」。</p>\n<h5>《追火車的男孩》Thank You For Sharing Your World<!-- notionvc: 3659a7ba-ac33-483d-9720-203fc7e7b848 --></h5>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/u4HDu_G5Fx4?si=BIBCT1qFX4_C8pNm\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div> </p>\n<p>熱愛研究火車的小學生Takashi天生視力不佳，有一天終於全盲，他也必須學習面對隨之而來的改變，唯一不變的是，同為火車迷的自閉症同學Shinji，始終待他親切。有天，Shinji邀請Takashi一起去迎接蒸汽火車進站。面對家門外的未知世界，Takashi該如何克服心魔，重拾他對生命的熱情呢？</p>\n<p>小編推推：<br>作品的畫面就像孩子手繪般，色彩鮮豔且大膽，兩位孩子突破重重障礙、不放棄對火車的熱愛非常可愛，在看完影片後會被兩位小男孩真摯的互動與感情所感動。</p>\n<p><!-- notionvc: 2032237d-ea82-445e-b7d5-4ad7ca3bdfe2 --></p>\n<p><!-- notionvc: 8c8c17da-86d3-420b-9392-92f96b652d38 --></p>\n<p><!-- notionvc: 3ce9c975-6d3b-4382-b353-985b5821bc6d --></p>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/21/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
@@ -32,12 +53,15 @@
                    "精選片單"
             ],
             "date_published": "2024-05-15T20:46:09+08:00",
-            "date_modified": "2024-05-15T20:46:25+08:00"
+            "date_modified": "2024-05-16T22:19:22+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-10.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-10.html",
             "title": "親情類",
+            "summary": "《親愛的安潔莉卡》Dear Angelica 以令人驚艷的視覺表現，講述一對情感深厚的母女無法切斷的牽絆。由配音天后吉娜·戴維斯（Geena Davis）和梅·惠特曼（Mae Whitman）獻聲演出，這部以女性情感為主軸的影片，是首部將場景拉到你我身邊的 VR 作品。片中的每樣物件，就像是即時繪製般的一筆一畫成形，賦予觀眾前所未見的互動觀影體驗。 小編推推： 對於作品畫面很有要求或是喜歡手繪風的你絕對不能錯過這部片！作品細膩的筆觸與彷彿即時繪畫的動畫充滿流動性，感人的母女之情絕對能觸動你心。 《父親的錄影帶》是一個結合現場與虛擬實境的的沉浸體驗。透過父親與兒子二個敘事視角，完成同志父子之間的和解與對話，並意圖開箱台灣上一代同志被封存的身影足跡，讓同婚通過的今日和同志不見天日的過去相互對照。 小編推推： 作品同時探討上一代同志的困境與父子因不諒解造成的彆扭關係，看完這部影片或許能讓與父母關係緊張的你獲得一點安慰，進而療癒在心裡受傷的孩子。 這是一個發生在疫情肆虐年代的故事，所有生物都陷入危機。人類的小女孩帶著一朵注入魔法的玫瑰，要穿越充滿病毒和冷漠的城市，將這朵玫瑰獻給在第一線醫院拼命守護生命的媽媽。 其中，她遭遇惡魔生物的詛咒也收到被人歧視的灰鼠族的援手，這一路就像全世界的抗疫之戰，顛顛簸簸、充滿挫折，但從未喪失希望。 小編推推： 此部作品結合逐格拍攝技術及傳統捏麵人技藝帶出屬於台灣的特色，精緻的畫面與美術絕對讓人驚豔，記錄疫情時期醫護人員的辛勞與其家庭的付出，小女孩與媽媽的感情還有堅持勇敢的決心或許能觀影結束後的你帶來滿滿的希望。",
+            "content_html": "<h5>《親愛的安潔莉卡》<i>Dear </i><strong><i>Angelica</i></strong></h5>\n<p> <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qwTL5LRJe90?si=SHqXHg5f8-mgx-2R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>以令人驚艷的視覺表現，講述一對情感深厚的母女無法切斷的牽絆。由配音天后吉娜·戴維斯（Geena Davis）和梅·惠特曼（Mae Whitman）獻聲演出，這部以女性情感為主軸的影片，是首部將場景拉到你我身邊的 VR 作品。片中的每樣物件，就像是即時繪製般的一筆一畫成形，賦予觀眾前所未見的互動觀影體驗。</p>\n<p>小編推推：<br>對於作品畫面很有要求或是喜歡手繪風的你絕對不能錯過這部片！作品細膩的筆觸與彷彿即時繪畫的動畫充滿流動性，感人的母女之情絕對能觸動你心。</p>\n<h5>《父親的錄影帶》<!-- notionvc: 7a1eec31-5353-4bf3-b514-e0ec8329f5e4 -->Father’s Video Tapes</h5>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/20/Jie-Tu-2024-05-16-Xia-Wu-9.48.08.png\" alt=\"\" width=\"488\" height=\"716\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/20/responsive/Jie-Tu-2024-05-16-Xia-Wu-9.48.08-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/20/responsive/Jie-Tu-2024-05-16-Xia-Wu-9.48.08-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/20/responsive/Jie-Tu-2024-05-16-Xia-Wu-9.48.08-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/20/responsive/Jie-Tu-2024-05-16-Xia-Wu-9.48.08-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/20/responsive/Jie-Tu-2024-05-16-Xia-Wu-9.48.08-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/20/responsive/Jie-Tu-2024-05-16-Xia-Wu-9.48.08-2xl.png 1600w\"></figure>\n<p>《父親的錄影帶》是一個結合現場與虛擬實境的的沉浸體驗。透過父親與兒子二個敘事視角，完成同志父子之間的和解與對話，並意圖開箱台灣上一代同志被封存的身影足跡，讓同婚通過的今日和同志不見天日的過去相互對照。</p>\n<p>小編推推：<br>作品同時探討上一代同志的困境與父子因不諒解造成的彆扭關係，看完這部影片或許能讓與父母關係緊張的你獲得一點安慰，進而療癒在心裡受傷的孩子。</p>\n<h5>《病玫瑰》The Sick Rose<!-- notionvc: 81261f62-3860-4661-9025-f046309af96a --></h5>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_yXVFPUA7YI?si=ue9BlZUqdCtwPa_p\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div> </p>\n<p>這是一個發生在疫情肆虐年代的故事，所有生物都陷入危機。人類的小女孩帶著一朵注入魔法的玫瑰，要穿越充滿病毒和冷漠的城市，將這朵玫瑰獻給在第一線醫院拼命守護生命的媽媽。 其中，她遭遇惡魔生物的詛咒也收到被人歧視的灰鼠族的援手，這一路就像全世界的抗疫之戰，顛顛簸簸、充滿挫折，但從未喪失希望。</p>\n<p>小編推推：<br>此部作品結合逐格拍攝技術及傳統捏麵人技藝帶出屬於台灣的特色，精緻的畫面與美術絕對讓人驚豔，記錄疫情時期醫護人員的辛勞與其家庭的付出，小女孩與媽媽的感情還有堅持勇敢的決心或許能觀影結束後的你帶來滿滿的希望。</p>\n<p> </p>\n<p><!-- notionvc: b0ad65b3-cd56-45b8-8a40-540b424af346 --></p>\n<p><!-- notionvc: 16877dc2-f7e3-4ca7-8558-dd7ec1e2205a --></p>\n<p><!-- notionvc: f05d02f4-a023-4e95-aaa5-4f8fcc8f6ee7 --></p>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/20/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
@@ -45,12 +69,15 @@
                    "精選片單"
             ],
             "date_published": "2024-05-15T20:44:39+08:00",
-            "date_modified": "2024-05-15T20:44:52+08:00"
+            "date_modified": "2024-05-16T22:11:39+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-4.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-4.html",
             "title": "愛情類",
+            "summary": "《Glimpse》 走進讓人身臨其境的動畫Glimpse，感受令人心痛的愛情，這是一部25分鐘的簡短互動動畫，利用電影的力量和虛擬現實講故事的獨特性來揭開分手的故事...可避免還是不可避免，由你決定。 小編推推： 若你是好萊塢影星Taron Egerton及Lucy Boynton的影迷，那麼絕對要看一次這部作品！獨特的動物世界觀讓人驚豔，精緻的作畫與令人辛酸的故事形成對比，不論是否有談過戀愛都能體驗看看酸甜的戀愛滋味 ~ 時空設定為 2033 年的臺北，人們已經習慣使用 AI 安排生活進程，配戴 VR 頭顯體驗不同世界。 女主角欣欣是一名事業有成的工程師，住在信義 區的高科技精品宅。35 歲生日這一晚，她一如 往常地待在家聽音樂吃蛋糕，社群媒體跳出朋友 祝福，還有十年前與曖昧學長的自拍照⋯⋯但好 友的電話攪亂了她的思緒，她的 AI 貓更是一夜 進化，感同她對過往戀情的懷念，提供進入照片 時空、開啟回憶元宇宙的新功能⋯⋯如果妳是欣欣，會願意再一次回到過去嗎？ 小編推推： 回想你的青春，是不是也藏有遺憾？ 或許是一段未開花的戀情，又或是一段萌芽未果的關係，那種酸甜滋味總是最令人映象深刻的對吧！這部片可以用第三人稱欣賞男女主角的愛情故事，絕對比用電視看偶像劇還過癮的啦~ 《 Love Simulation EVE: Water Spirits》 這是一款 5 分鐘的雙人虛擬實境體驗，賦予玩家超越海浪的心靈感應能力。兩名玩家化身為水靈化身，被帶到夜間海洋。 創造愛情演算法--水精靈在與波浪共舞時找到了新的溝通與連結。同步的時刻會得到音樂和愛情演算法的獎勵。旨在提供珍貴的聯繫時刻，讓真實時間停止，虛擬永恆的開始，透過VR互動的方式創造出人與人之間micro loving 的美好時刻。 小編推推： 作品畫面的粒子效果非常成功！感覺花了許多時間與金錢成本 （十分佩服 QQ），由無數光點組成的水精靈真的很符合「精靈」的奇幻形象，帶上VR頭盔後就像置身於宇宙般，直接跳脫現實世界的時間流~ 《The Line》 講述對變化的愛和恐懼，讓您欣賞兩個微型娃娃&hellip;",
+            "content_html": "<h5>《Glimpse》<!-- notionvc: ec0ae6b8-e1fb-455a-8e7d-82b932ee8252 --></h5>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EX--mbhHG0Q?si=nW0-YpqrSKcZzWSB\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div> </p>\n<p>走進讓人身臨其境的動畫Glimpse，感受令人心痛的愛情，這是一部25分鐘的簡短互動動畫，利用電影的力量和虛擬現實講故事的獨特性來揭開分手的故事...可避免還是不可避免，由你決定。</p>\n<p>小編推推：<br>若你是好萊塢影星Taron Egerton及Lucy Boynton的影迷，那麼絕對要看一次這部作品！獨特的動物世界觀讓人驚豔，精緻的作畫與令人辛酸的故事形成對比，不論是否有談過戀愛都能體驗看看酸甜的戀愛滋味 ~</p>\n<h5>《擬吻》Virture Kiss<!-- notionvc: 4f91f274-4af1-4bb2-b817-380e53cd2ed8 --></h5>\n<p> <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mlDnA4uY5kM?si=l8VAkJ7Y-pYkmCN7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>時空設定為 2033 年的臺北，人們已經習慣使用 AI 安排生活進程，配戴 VR 頭顯體驗不同世界。 女主角欣欣是一名事業有成的工程師，住在信義 區的高科技精品宅。35 歲生日這一晚，她一如 往常地待在家聽音樂吃蛋糕，社群媒體跳出朋友 祝福，還有十年前與曖昧學長的自拍照⋯⋯但好 友的電話攪亂了她的思緒，她的 AI 貓更是一夜 進化，感同她對過往戀情的懷念，提供進入照片 時空、開啟回憶元宇宙的新功能⋯⋯如果妳是欣欣，會願意再一次回到過去嗎？</p>\n<p>小編推推：<br>回想你的青春，是不是也藏有遺憾？ 或許是一段未開花的戀情，又或是一段萌芽未果的關係，那種酸甜滋味總是最令人映象深刻的對吧！這部片可以用第三人稱欣賞男女主角的愛情故事，絕對比用電視看偶像劇還過癮的啦~</p>\n<p>《 Love Simulation EVE: Water Spirits》<!-- notionvc: f341a896-b517-4059-ba81-7880fdb7acab --></p>\n<p> <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tGihZXSNihE?si=c19bqdajaGzEmNLl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>這是一款 5 分鐘的雙人虛擬實境體驗，賦予玩家超越海浪的心靈感應能力。兩名玩家化身為水靈化身，被帶到夜間海洋。 創造愛情演算法--水精靈在與波浪共舞時找到了新的溝通與連結。同步的時刻會得到音樂和愛情演算法的獎勵。旨在提供珍貴的聯繫時刻，讓真實時間停止，虛擬永恆的開始，透過VR互動的方式創造出人與人之間micro loving 的美好時刻。</p>\n<p>小編推推：<br>作品畫面的粒子效果非常成功！感覺花了許多時間與金錢成本 （十分佩服 QQ），由無數光點組成的水精靈真的很符合「精靈」的奇幻形象，帶上VR頭盔後就像置身於宇宙般，直接跳脫現實世界的時間流~</p>\n<h5>《The Line》<!-- notionvc: d63845c0-5aaf-4e4a-af1d-76b3919401a1 --></h5>\n<p> <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UYWjPOgtOFo?si=LJwFlfz5zQ7WPD4Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>《The Line》 講述對變化的愛和恐懼，讓您欣賞兩個微型娃娃 —— Pedro 和 Rosa 的故事。作品以 20 世紀 40 年代巴西聖保羅市的比例模型為背景。邀請您拉動旋鈕，甚至爬到機器下面，以展開這些小雕像的故事，這些小雕像彼此完美，但卻步於活出他們的愛情，究竟他們能不能了解對方的心意呢？</p>\n<p>小編推推：<br>「太可愛了吧！」這是在觀賞時小編不斷重複大喊的一句話。這件作品的互動性相當高，許多的按鍵、把手讓觀眾推動故事前進，且在觀看作品時就像是在翻閱立體童話書一樣，看著男女主角的戀情漸漸萌芽，笑容真的會壓不下來，是不分年齡都能觀賞的優秀作品！</p>\n<p>《Fall In Love》</p>\n<p> <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Jh8xafB9sm0?si=Ir9gplmZYw9kBqKt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>透過VR來場超真實的約會體驗吧！由Tool of North America 和 Oculus 共同創作的 Fall in Love將劇情結合AI，運用臉部追蹤和語音辨識技術讓觀眾能與虛擬人物進行聊天，交心，甚至談情說愛，體驗一場超越現實又超擬真的完美約會。給觀眾的注意事項：別不小心愛上虛擬人無啦！<!-- notionvc: 0bf4f2df-89b0-4a81-9e4c-e6201a17e2a0 --></p>\n<p><!-- notionvc: 02fcb5ee-4fcc-4630-bc3f-9b80a5e392ff --></p>\n<p><!-- notionvc: f9b83164-1804-45bd-99a1-0f1bdf22d7ff --></p>\n<p><!-- notionvc: 0bffb1ad-4a9b-4013-8a93-8c1e8d1ee9e3 --></p>\n<p><!-- notionvc: 66186671-7310-4a94-9ef9-e9e7b84f0bcb --></p>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/18/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
@@ -58,12 +85,14 @@
                    "精選片單"
             ],
             "date_published": "2024-05-15T20:27:27+08:00",
-            "date_modified": "2024-05-15T20:44:09+08:00"
+            "date_modified": "2024-05-16T22:30:41+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-3.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-3.html",
             "title": "周邊商品",
+            "summary": "音樂盒 $666 巧克力 $150 紀念款紅酒(700ml) $1314 紀念T恤 $520 牽手襪 $150 曲奇餅乾 $250",
+            "content_html": "<h3>音樂盒 $666</h3>\n<h3><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/Jie-Tu_2024-05-16_Shang-Wu-1.24.14-removebg.png\" alt=\"\" width=\"568\" height=\"690\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Jie-Tu_2024-05-16_Shang-Wu-1.24.14-removebg-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Jie-Tu_2024-05-16_Shang-Wu-1.24.14-removebg-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Jie-Tu_2024-05-16_Shang-Wu-1.24.14-removebg-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Jie-Tu_2024-05-16_Shang-Wu-1.24.14-removebg-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Jie-Tu_2024-05-16_Shang-Wu-1.24.14-removebg-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Jie-Tu_2024-05-16_Shang-Wu-1.24.14-removebg-2xl.png 1600w\"></figure></h3>\n<h3>巧克力 $150</h3>\n<h3><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/2-2.png\" alt=\"\" width=\"800\" height=\"568\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/2-2-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/2-2-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/2-2-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/2-2-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/2-2-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/2-2-2xl.png 1600w\"></figure>紀念款紅酒(700ml)  $1314</h3>\n<h3><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/5.png\" alt=\"\" width=\"800\" height=\"568\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/5-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/5-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/5-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/5-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/5-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/5-2xl.png 1600w\"></figure></h3>\n<h3>紀念T恤 $520</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/4.png\" alt=\"\" width=\"800\" height=\"568\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/4-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/4-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/4-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/4-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/4-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/4-2xl.png 1600w\"></figure>\n<h3>牽手襪 $150</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/Wei-Ming-Ming-10.png\" alt=\"\" width=\"800\" height=\"450\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Wei-Ming-Ming-10-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Wei-Ming-Ming-10-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Wei-Ming-Ming-10-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Wei-Ming-Ming-10-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Wei-Ming-Ming-10-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/Wei-Ming-Ming-10-2xl.png 1600w\"></figure>\n<h3>曲奇餅乾 $250</h3>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/1.png\" alt=\"\" width=\"800\" height=\"568\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/1-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/1-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/1-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/1-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/1-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/17/responsive/1-2xl.png 1600w\"></figure>\n<p> </p>",
             "author": {
                 "name": "CHIN"
             },
@@ -71,12 +100,15 @@
                    "周邊商品"
             ],
             "date_published": "2024-05-15T20:26:58+08:00",
-            "date_modified": "2024-05-15T20:37:37+08:00"
+            "date_modified": "2024-05-16T01:37:13+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-9.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-9.html",
             "title": "情人節特別活動",
+            "summary": "3/14 將在浪漫的情人節夜晚舉行大型光雕秀配合空拍機展演，在光影之間讓您和您的摯愛創造一個難忘的夜晚。",
+            "content_html": "<p>3/14 將在浪漫的情人節夜晚舉行大型光雕秀配合空拍機展演，在光影之間讓您和您的摯愛創造一個難忘的夜晚。<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/16/8559d30c6a498723acdbf19b98f5d3c0.jpeg\" alt=\"\" width=\"1060\" height=\"596\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/16/responsive/8559d30c6a498723acdbf19b98f5d3c0-xs.jpeg 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/16/responsive/8559d30c6a498723acdbf19b98f5d3c0-sm.jpeg 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/16/responsive/8559d30c6a498723acdbf19b98f5d3c0-md.jpeg 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/16/responsive/8559d30c6a498723acdbf19b98f5d3c0-lg.jpeg 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/16/responsive/8559d30c6a498723acdbf19b98f5d3c0-xl.jpeg 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/16/responsive/8559d30c6a498723acdbf19b98f5d3c0-2xl.jpeg 1600w\"></figure><!-- notionvc: 9b7d7402-d0e2-4a9b-b88e-357b8e4cb5cf --></p>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/16/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
@@ -84,12 +116,15 @@
                    "周邊活動"
             ],
             "date_published": "2024-05-15T16:21:34+08:00",
-            "date_modified": "2024-05-15T16:21:46+08:00"
+            "date_modified": "2024-05-16T01:20:54+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-8.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-8.html",
             "title": "Cosplay 活動",
+            "summary": "在第一天的開幕式中，我們邀請參加的大家一同 cosplay 中世紀時期的莊園居民，不只有 VR 的虛擬體驗，也有實境還原的場景，帶領觀眾沉浸於奇幻世界。",
+            "content_html": "<p>在第一天的開幕式中，我們邀請參加的大家一同 cosplay 中世紀時期的莊園居民，不只有 VR 的虛擬體驗，也有實境還原的場景，帶領觀眾沉浸於奇幻世界。<!-- notionvc: a1a50773-2198-446a-9248-c8b23766fe49 --></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/15/Ying-Guo-Xiong-Mao-Wang-Tang-Dun-Fu-Shi.jpeg\" alt=\"\" width=\"762\" height=\"435\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Ying-Guo-Xiong-Mao-Wang-Tang-Dun-Fu-Shi-xs.jpeg 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Ying-Guo-Xiong-Mao-Wang-Tang-Dun-Fu-Shi-sm.jpeg 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Ying-Guo-Xiong-Mao-Wang-Tang-Dun-Fu-Shi-md.jpeg 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Ying-Guo-Xiong-Mao-Wang-Tang-Dun-Fu-Shi-lg.jpeg 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Ying-Guo-Xiong-Mao-Wang-Tang-Dun-Fu-Shi-xl.jpeg 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Ying-Guo-Xiong-Mao-Wang-Tang-Dun-Fu-Shi-2xl.jpeg 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/15/Fu.jpeg\" alt=\"\" width=\"620\" height=\"930\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Fu-xs.jpeg 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Fu-sm.jpeg 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Fu-md.jpeg 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Fu-lg.jpeg 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Fu-xl.jpeg 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/15/responsive/Fu-2xl.jpeg 1600w\"></figure>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/15/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
@@ -97,12 +132,15 @@
                    "周邊活動"
             ],
             "date_published": "2024-05-15T16:21:16+08:00",
-            "date_modified": "2024-05-15T16:21:22+08:00"
+            "date_modified": "2024-05-16T01:08:25+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-7.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-7.html",
             "title": "尋寶闖關遊戲",
+            "summary": "在展場區域中，帶你一同體驗本次展覽作品主角們的心路歷程，或許是友情的真摯、愛情的浪漫，又或是親情的溫柔，在層層闖關後漸漸感受到人與人之間的羈絆…… 總共有 7 關，關卡分別設置在展場各處 （偷偷提示~找找看小VR頭盔在哪？關卡就在那裏喔！） 集滿 5 個印章後就能至服務台換取小禮物！數量有限，動作要快呀~",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/13/20200507_c5022.jpeg\" alt=\"\" width=\"1024\" height=\"638\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/13/responsive/20200507_c5022-xs.jpeg 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/13/responsive/20200507_c5022-sm.jpeg 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/13/responsive/20200507_c5022-md.jpeg 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/13/responsive/20200507_c5022-lg.jpeg 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/13/responsive/20200507_c5022-xl.jpeg 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/13/responsive/20200507_c5022-2xl.jpeg 1600w\"></figure>\n<p>在展場區域中，帶你一同體驗本次展覽作品主角們的心路歷程，或許是友情的真摯、愛情的浪漫，又或是親情的溫柔，在層層闖關後漸漸感受到人與人之間的羈絆……</p>\n<p>總共有 7 關，關卡分別設置在展場各處</p>\n<p>（偷偷提示~找找看小VR頭盔在哪？關卡就在那裏喔！）</p>\n<p>集滿 5 個印章後就能至服務台換取小禮物！數量有限，動作要快呀~</p>\n<p><!-- notionvc: 3f8db024-06b5-4434-a560-d4eb33b62540 --></p>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/13/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
@@ -110,14 +148,15 @@
                    "周邊活動"
             ],
             "date_published": "2024-05-15T16:20:30+08:00",
-            "date_modified": "2024-05-15T16:20:50+08:00"
+            "date_modified": "2024-05-16T00:58:54+08:00"
         },
         {
             "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-6.html",
             "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-6.html",
-            "title": "「人生就該來場與好麻吉的冒險之旅」)",
-            "summary": "3/16：（友情）「人生就該來場與好麻吉的冒險之旅」 講者：《鼠麻吉》導演 蔡洙應 與談人：主播 陳文越 介紹：",
-            "content_html": "<p>3/16：（友情）「人生就該來場與好麻吉的冒險之旅」</p>\n<p>講者：《鼠麻吉》導演 蔡洙應</p>\n<p>與談人：主播 陳文越</p>\n<p>介紹：</p>\n<p><!-- notionvc: a0543126-3fa7-4381-8acb-76c8af4888a8 --></p>",
+            "title": "「人生就該來場與好麻吉的冒險之旅」",
+            "summary": "「人生就該來場與好麻吉的冒險之旅」 時間：3/16（Sun）14:00~17:00 講者：《鼠麻吉》導演 蔡洙應 與談人：主播 陳文越 羨慕料理鼠王古斯多與小米的冒險故事嗎？跟好麻吉待在一起的時光，總是最放鬆、最瘋狂的。在體驗過VR作品《鼠麻吉》之後，是否也對一場與好麻吉的冒險之旅躍躍欲試了呢？就讓導演 蔡洙應 來為大家進入友誼的瘋狂世界吧！ 「擁抱受傷的童年」一場與父母和解的旅程",
+            "content_html": "<h3 class=\"align-center\">「人生就該來場與好麻吉的冒險之旅」</h3>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://chenyi092.github.io/VR-Genesis/media/posts/11/1.png\" alt=\"\" width=\"566\" height=\"800\" sizes=\"100vw\" srcset=\"https://chenyi092.github.io/VR-Genesis/media/posts/11/responsive/1-xs.png 300w ,https://chenyi092.github.io/VR-Genesis/media/posts/11/responsive/1-sm.png 480w ,https://chenyi092.github.io/VR-Genesis/media/posts/11/responsive/1-md.png 768w ,https://chenyi092.github.io/VR-Genesis/media/posts/11/responsive/1-lg.png 1024w ,https://chenyi092.github.io/VR-Genesis/media/posts/11/responsive/1-xl.png 1360w ,https://chenyi092.github.io/VR-Genesis/media/posts/11/responsive/1-2xl.png 1600w\"></figure>\n<p>時間：3/16（Sun）14:00~17:00</p>\n<p>講者：《鼠麻吉》導演 蔡洙應</p>\n<p>與談人：主播 陳文越</p>\n<p>羨慕料理鼠王古斯多與小米的冒險故事嗎？跟好麻吉待在一起的時光，總是最放鬆、最瘋狂的。在體驗過VR作品《鼠麻吉》之後，是否也對一場與好麻吉的冒險之旅躍躍欲試了呢？就讓導演 蔡洙應 來為大家進入友誼的瘋狂世界吧！<!-- notionvc: 3c7650b1-1216-4dd2-8ee7-c13bbd21533f --></p>\n<p class=\"align-left\"><a href=\"https://chenyi092.github.io/VR-Genesis/guan-yu-chin-5.html\">「擁抱受傷的童年」一場與父母和解的旅程</a></p>\n<p><!-- notionvc: a0543126-3fa7-4381-8acb-76c8af4888a8 --></p>",
+            "image": "https://chenyi092.github.io/VR-Genesis/media/posts/11/CHIN.png",
             "author": {
                 "name": "CHIN"
             },
@@ -126,23 +165,7 @@
                    "周邊活動"
             ],
             "date_published": "2024-05-15T16:06:23+08:00",
-            "date_modified": "2024-05-15T16:18:01+08:00"
-        },
-        {
-            "id": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-5.html",
-            "url": "https://chenyi092.github.io/VR-Genesis/guan-yu-chin-5.html",
-            "title": "「擁抱受傷的童年」一場與父母和解的旅程",
-            "summary": "3/15：（親情）「『擁抱受傷的童年』一場與父母和解的旅程」 講者：《父親的錄影帶》導演 廖俊逞 與談人：擁抱心理諮商師 介紹：",
-            "content_html": "<p>3/15：（親情）「『擁抱受傷的童年』一場與父母和解的旅程」</p>\n<p>講者：《父親的錄影帶》導演 廖俊逞</p>\n<p>與談人：擁抱心理諮商師</p>\n<p>介紹：</p>\n<p><!-- notionvc: 827c3cf5-1396-4391-acb8-a2e38f56976f --></p>",
-            "author": {
-                "name": "CHIN"
-            },
-            "tags": [
-                   "論壇講座",
-                   "周邊活動"
-            ],
-            "date_published": "2024-05-15T16:04:35+08:00",
-            "date_modified": "2024-05-15T16:18:07+08:00"
+            "date_modified": "2024-05-16T22:23:42+08:00"
         }
     ]
 }
